@@ -1,9 +1,6 @@
 #!/bin/bash
-#Generador de contraseñas
-clear
-#Si tienes instalado figlet puedes activar el codigo, quitando el # siguiente....
-#figlet -f emboss2 Generador de contrasenas!!  #Esto te mostrara un banner 
 
+clear
 green='\033[1;32m'
 yellow='\033[1;33m'                                     
 blue='\033[1;34m'                                       
